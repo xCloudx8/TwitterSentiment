@@ -4,7 +4,8 @@ A twitter based machine learning sentiment analysis
 ## Requirements
 * textBlob
 * tweepy
-`python -m pip insatll textBlob`
+
+`python -m pip install textBlob`
 `python -m pip install tweepy`
 
 ## What it does?
